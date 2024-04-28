@@ -1,2 +1,3 @@
-# https-dev.amazoncloud.cn-learn-aitalent
-Learn Amazon Cloud courses (https://dev.amazoncloud.cn/learn)
+# Learn Amazon AI Talent courses
+
+Homepage: <https://dev.amazoncloud.cn/learn/aitalent>

@@ -36,7 +36,7 @@ mindmap
 
 Amazon Bedrock Playground 架构图：
 
-![Amazon Bedrock Playground](./Amazon%20Bedrock%20Playgrounds.png)
+![Amazon Bedrock Playground](<./Amazon Bedrock Playgrounds.png>)
 
 ```mermaid
 mindmap

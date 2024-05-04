@@ -71,7 +71,7 @@ SageMaker Autopilot 简介
 * 知识考核
 * 总结
 
-#### 模块 4：运营最佳实践
+#### [模块 4：运营最佳实践](<./4. 运营最佳实践.md>)
 
 SageMaker Data Wrangler 最佳实践
 

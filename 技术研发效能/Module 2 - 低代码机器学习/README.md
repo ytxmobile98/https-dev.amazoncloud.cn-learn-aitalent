@@ -58,7 +58,7 @@ SageMaker Data Wrangler 简介
 * 知识考核
 * 总结
 
-#### 模块 3：深入讨论 Amazon SageMaker Autopilot
+#### [模块 3：深入讨论 Amazon SageMaker Autopilot](<./3. 深入讨论 Amazon SageMaker Autopilot.md>)
 
 SageMaker Autopilot 简介
 
